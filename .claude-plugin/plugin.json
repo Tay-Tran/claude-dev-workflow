@@ -1,0 +1,11 @@
+{
+  "name": "dev-workflow",
+  "description": "A staged, owner-approved way of working with Claude Code: size every request, plan before code, split features into waves and tasks with one writer and one reviewer agent each, pick models by the cost of a mistake, gate UI work on real screenshots, and keep token use low.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Tran Ngoc Tay"
+  },
+  "license": "MIT",
+  "keywords": ["workflow", "process", "planning", "code-review", "subagents"],
+  "dependencies": ["superpowers@claude-plugins-official"]
+}

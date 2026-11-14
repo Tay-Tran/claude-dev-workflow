@@ -1,0 +1,2 @@
+**Screenshot gate:** a UI change is not done until the real page is screenshotted (375 and 1280 px; also dark, 768) with the heaviest real content and reviewed against `docs/06-operations/ux-checklist.md`; the reviewer agent gets the images.
+**Screen inventory:** draw nothing before `docs/06-operations/screen-inventory.md` is filled for the page; use only the design system's tokens and named components.

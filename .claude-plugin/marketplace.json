@@ -1,0 +1,15 @@
+{
+  "name": "dev-workflow-marketplace",
+  "owner": {
+    "name": "Tran Ngoc Tay"
+  },
+  "description": "The dev-workflow plugin: a staged, owner-approved way of working with Claude Code.",
+  "allowCrossMarketplaceDependenciesOn": ["claude-plugins-official"],
+  "plugins": [
+    {
+      "name": "dev-workflow",
+      "source": "./",
+      "description": "Staged, owner-approved Claude Code workflow: sizing, plan-first, waves and tasks, model choice, two-pass review, screenshot gate, token savings."
+    }
+  ]
+}
