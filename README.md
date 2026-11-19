@@ -20,8 +20,6 @@ A Claude Code plugin for a staged, owner-approved way of working. It grew out of
 
 ## Install
 
-This repository is private. You need read access (ask the owner to add you as a collaborator) and git credentials for GitHub on your machine, for example `gh auth login`.
-
 In Claude Code:
 
 ```
